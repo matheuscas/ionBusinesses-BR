@@ -6,6 +6,12 @@ Um repositório para reunir todas as empresas que estão adotando (Em adoção) 
 
 ## Nordeste
 
+### Alagoas
+
+Cidade | Empresa | Site | Contato | Status |
+ --- | --- | --- | --- | ---
+Maceió | Clinn.io | [http://clinn.io/](http://clinn.io/) | contato@clinn.io | Em produção 
+
 ### Bahia
 
 Cidade | Empresa | Site | Contato | Status |
