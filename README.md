@@ -1,6 +1,6 @@
 # ionBusinesses-BR
 
-Um repositório para reunir todas as empresas que estão adotando (Em adoção) ou já adotam (Apps publicados) o Ionic como SDK de desenvolvimento para seus produtos. Inspirado no [pyBusinesses-BR](https://github.com/sergiomario/pyBusinesses-BR)
+Um repositório para reunir todas as empresas e startups que estão adotando (Em adoção) ou já adotam (Apps publicados) o Ionic como SDK de desenvolvimento para seus produtos. Inspirado no [pyBusinesses-BR](https://github.com/sergiomario/pyBusinesses-BR)
 
 ## Norte
 Cidade | Empresa | Site | Contato | Status |
@@ -19,7 +19,7 @@ Maceió | Clinn.io | [http://clinn.io/](http://clinn.io/) | contato@clinn.io | E
 
 Cidade | Empresa | Site | Contato | Status |
  --- | --- | --- | --- | ---
-Salvador | Maqhin Soluções Tecnológicas | [http://www.maqhin.com.br/](http://www.maqhin.com.br/) | contato@maqhin.com.br | Em adoção 
+Salvador | Maqhin Soluções Tecnológicas | [http://www.maqhin.com.br/](http://www.maqhin.com.br/) | contato@maqhin.com.br | Em produção 
 
 ### Pernambuco
 
